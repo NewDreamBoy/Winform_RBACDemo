@@ -1,0 +1,6 @@
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\bin\Debug\RBACDemo.Models.dll
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\bin\Debug\RBACDemo.Models.pdb
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\obj\Debug\RBACDemo.Models.csproj.AssemblyReference.cache
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\obj\Debug\RBACDemo.Models.csproj.CoreCompileInputs.cache
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\obj\Debug\RBACDemo.Models.dll
+D:\Porject\C#\RBACPermissionSystemDemo\RBACDemo.Models\obj\Debug\RBACDemo.Models.pdb
