@@ -7,17 +7,31 @@ namespace RBACPermissionSystemDemo
 {
     public partial class UserForm : Form
     {
-        private UserDAL userDal = new UserDAL();
+        #region 字段
+
+        private UserDAL _userDal = new UserDAL();
+
+        #endregion 字段
+
+        #region 构造函数
 
         public UserForm()
         {
             InitializeComponent();
         }
 
+        #endregion 构造函数
+
+        #region 窗体事件
+
         private void UserForm_Load(object sender, EventArgs e)
         {
             LoadUsers();
         }
+
+        #endregion 窗体事件
+
+        #region 控件事件
 
         private void Btn_Add_Click(object sender, EventArgs e)
         {
@@ -30,7 +44,7 @@ namespace RBACPermissionSystemDemo
                 IsActive = chk_Active.Checked
             };
 
-            userDal.AddUser(user);
+            _userDal.AddUser(user);
             LoadUsers();
         }
 
@@ -46,7 +60,7 @@ namespace RBACPermissionSystemDemo
                 PasswordHash = txt_Password.Text.Trim(),
                 IsActive = chk_Active.Checked
             };
-            userDal.UpdateUser(user);
+            _userDal.UpdateUser(user);
             LoadUsers();
         }
 
@@ -54,7 +68,7 @@ namespace RBACPermissionSystemDemo
         {
             if (dataGridView1.CurrentRow == null) return;
             int userId = (int)dataGridView1.CurrentRow.Cells["UserId"].Value;
-            userDal.DeleteUser(userId);
+            _userDal.DeleteUser(userId);
             LoadUsers();
         }
 
@@ -75,12 +89,17 @@ namespace RBACPermissionSystemDemo
                 chk_Active.Checked = ((int)cellValue) == 1;
             else
                 chk_Active.Checked = false;
-
         }
+
+        #endregion 控件事件
+
+        #region 方法
 
         private void LoadUsers()
         {
-            dataGridView1.DataSource = userDal.GetAllUsers();
+            dataGridView1.DataSource = _userDal.GetAllUsers();
         }
+
+        #endregion 方法
     }
 }

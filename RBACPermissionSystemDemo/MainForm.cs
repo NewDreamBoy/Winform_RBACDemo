@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RBACPermissionSystemDemo
@@ -23,7 +16,15 @@ namespace RBACPermissionSystemDemo
 
         private void Btn_UserManagement_Click(object sender, EventArgs e)
         {
-            using (UserForm from = new UserForm())
+            using (var from = new UserForm())
+            {
+                from.ShowDialog();
+            }
+        }
+
+        private void Btn_RoleManage_Click(object sender, EventArgs e)
+        {
+            using (var from = new RoleForm())
             {
                 from.ShowDialog();
             }

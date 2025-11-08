@@ -30,6 +30,7 @@
         {
             this.btn_UserManagement = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btn_RoleManage = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,6 +46,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btn_RoleManage);
             this.groupBox1.Controls.Add(this.btn_UserManagement);
             this.groupBox1.Location = new System.Drawing.Point(12, 23);
             this.groupBox1.Name = "groupBox1";
@@ -52,6 +54,16 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
+            // 
+            // btn_RoleManage
+            // 
+            this.btn_RoleManage.Location = new System.Drawing.Point(125, 34);
+            this.btn_RoleManage.Name = "btn_RoleManage";
+            this.btn_RoleManage.Size = new System.Drawing.Size(75, 23);
+            this.btn_RoleManage.TabIndex = 1;
+            this.btn_RoleManage.Text = "角色管理";
+            this.btn_RoleManage.UseVisualStyleBackColor = true;
+            this.btn_RoleManage.Click += new System.EventHandler(this.Btn_RoleManage_Click);
             // 
             // MainForm
             // 
@@ -71,5 +83,6 @@
 
         private System.Windows.Forms.Button btn_UserManagement;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btn_RoleManage;
     }
 }

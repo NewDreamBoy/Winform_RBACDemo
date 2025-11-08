@@ -6,8 +6,6 @@ namespace RBACDemo.DAL
 {
     public class UserDAL
     {
-       
-
         // 查询所有用户
         public List<User> GetAllUsers()
         {
