@@ -31,6 +31,8 @@
             this.btn_UserManagement = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btn_RoleManage = new System.Windows.Forms.Button();
+            this.btn_RolePermission = new System.Windows.Forms.Button();
+            this.btn_PermissionManagement = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,6 +48,8 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btn_PermissionManagement);
+            this.groupBox1.Controls.Add(this.btn_RolePermission);
             this.groupBox1.Controls.Add(this.btn_RoleManage);
             this.groupBox1.Controls.Add(this.btn_UserManagement);
             this.groupBox1.Location = new System.Drawing.Point(12, 23);
@@ -64,6 +68,26 @@
             this.btn_RoleManage.Text = "角色管理";
             this.btn_RoleManage.UseVisualStyleBackColor = true;
             this.btn_RoleManage.Click += new System.EventHandler(this.Btn_RoleManage_Click);
+            // 
+            // btn_RolePermission
+            // 
+            this.btn_RolePermission.Location = new System.Drawing.Point(125, 78);
+            this.btn_RolePermission.Name = "btn_RolePermission";
+            this.btn_RolePermission.Size = new System.Drawing.Size(75, 23);
+            this.btn_RolePermission.TabIndex = 2;
+            this.btn_RolePermission.Text = "角色权限";
+            this.btn_RolePermission.UseVisualStyleBackColor = true;
+            this.btn_RolePermission.Click += new System.EventHandler(this.Btn_RolePermission_Click);
+            // 
+            // btn_PermissionManagement
+            // 
+            this.btn_PermissionManagement.Location = new System.Drawing.Point(24, 78);
+            this.btn_PermissionManagement.Name = "btn_PermissionManagement";
+            this.btn_PermissionManagement.Size = new System.Drawing.Size(75, 23);
+            this.btn_PermissionManagement.TabIndex = 3;
+            this.btn_PermissionManagement.Text = "权限管理";
+            this.btn_PermissionManagement.UseVisualStyleBackColor = true;
+            this.btn_PermissionManagement.Click += new System.EventHandler(this.Btn_PermissionManagement_Click);
             // 
             // MainForm
             // 
@@ -84,5 +108,7 @@
         private System.Windows.Forms.Button btn_UserManagement;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button btn_RoleManage;
+        private System.Windows.Forms.Button btn_RolePermission;
+        private System.Windows.Forms.Button btn_PermissionManagement;
     }
 }

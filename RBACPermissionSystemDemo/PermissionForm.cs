@@ -4,6 +4,10 @@ using System.Windows.Forms;
 
 namespace RBACPermissionSystemDemo
 {
+    
+    /// <summary>
+    /// 权限管理
+    /// </summary>
     public partial class PermissionForm : Form
     {
         #region 字段
@@ -21,14 +25,14 @@ namespace RBACPermissionSystemDemo
 
         #endregion 构造函数
 
-        #region 窗体控件
+        #region 窗体事件
 
-        private void PermissionForm_Click(object sender, System.EventArgs e)
+        private void PermissionForm_Load(object sender, System.EventArgs e)
         {
             LoadPermissions();
         }
 
-        #endregion 窗体控件
+        #endregion 窗体事件
 
         #region 控件事件
 

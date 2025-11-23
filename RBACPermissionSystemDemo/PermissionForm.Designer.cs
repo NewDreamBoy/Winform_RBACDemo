@@ -200,7 +200,7 @@
             this.Controls.Add(this.tlp_CoreLayoutArea);
             this.Name = "PermissionForm";
             this.Text = "PermissionForm";
-            this.Click += new System.EventHandler(this.PermissionForm_Click);
+            this.Load += new System.EventHandler(this.PermissionForm_Load);
             this.tlp_CoreLayoutArea.ResumeLayout(false);
             this.tlp_TopLayoutArea.ResumeLayout(false);
             this.tlp_TopLayoutArea.PerformLayout();

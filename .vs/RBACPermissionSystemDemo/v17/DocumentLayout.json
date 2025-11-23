@@ -3,35 +3,75 @@
   "WorkspaceRootPath": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.dal\\userroledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\userroledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.dal\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.dal\\rolepermissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\rolepermissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\permissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.dal\\permissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\permissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\rolepermissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\rolepermissionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\rolepermissionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.dal\\rolepermissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\rolepermissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,43 +79,15 @@
       "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.dal\\permissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\permissiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.models\\comm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\comm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacpermissionsystemdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D7CBA7D-05D1-416B-AC2B-69D86C9F3ADB}|RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj|solutionrelative:rbacpermissionsystemdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.dal\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB76ADE-9D48-4EC9-AA02-47E8FA16CEA9}|RBACDemo.DAL\\RBACDemo.DAL.csproj|solutionrelative:rbacdemo.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|d:\\porject\\c#\\rbacpermissionsystemdemo\\rbacdemo.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|D:\\Porject\\C#\\RBACPermissionSystemDemo\\rbacdemo.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DF4CCFE-B81B-482B-9D2C-1B8926D18C29}|RBACDemo.Models\\RBACDemo.Models.csproj|solutionrelative:rbacdemo.models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -106,19 +118,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRoleDAL.cs",
+              "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\UserRoleDAL.cs",
+              "RelativeDocumentMoniker": "RBACDemo.DAL\\UserRoleDAL.cs",
+              "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\UserRoleDAL.cs",
+              "RelativeToolTip": "RBACDemo.DAL\\UserRoleDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:17:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "RBACDemo.Models\\UserRole.cs",
+              "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\UserRole.cs",
+              "RelativeToolTip": "RBACDemo.Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:17:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolePermissionForm.Designer.cs",
+              "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RolePermissionForm.Designer.cs",
+              "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RolePermissionForm.Designer.cs",
+              "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RolePermissionForm.Designer.cs",
+              "RelativeToolTip": "RBACPermissionSystemDemo\\RolePermissionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:48:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RolePermissionForm.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RolePermissionForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RolePermissionForm.cs",
               "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RolePermissionForm.cs",
               "RelativeToolTip": "RBACPermissionSystemDemo\\RolePermissionForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T15:18:54.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "RolePermissionForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RolePermissionForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RolePermissionForm.cs",
@@ -130,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "RolePermissionDAL.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\RolePermissionDAL.cs",
               "RelativeDocumentMoniker": "RBACDemo.DAL\\RolePermissionDAL.cs",
@@ -138,12 +189,11 @@
               "RelativeToolTip": "RBACDemo.DAL\\RolePermissionDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T15:15:13.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T15:15:13.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "RolePermission.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\RolePermission.cs",
               "RelativeDocumentMoniker": "RBACDemo.Models\\RolePermission.cs",
@@ -151,8 +201,7 @@
               "RelativeToolTip": "RBACDemo.Models\\RolePermission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T15:14:57.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T15:14:57.179Z"
             },
             {
               "$type": "Document",
@@ -162,14 +211,14 @@
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\PermissionForm.cs",
               "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\PermissionForm.cs",
               "RelativeToolTip": "RBACPermissionSystemDemo\\PermissionForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T15:01:38.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PermissionForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\PermissionForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\PermissionForm.cs",
@@ -181,20 +230,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "PermissionDAL.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\PermissionDAL.cs",
               "RelativeDocumentMoniker": "RBACDemo.DAL\\PermissionDAL.cs",
               "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\PermissionDAL.cs",
               "RelativeToolTip": "RBACDemo.DAL\\PermissionDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T14:59:50.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Permission.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\Permission.cs",
               "RelativeDocumentMoniker": "RBACDemo.Models\\Permission.cs",
@@ -202,12 +251,11 @@
               "RelativeToolTip": "RBACDemo.Models\\Permission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T14:59:21.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T14:59:21.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "RoleDAL.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\RoleDAL.cs",
               "RelativeDocumentMoniker": "RBACDemo.DAL\\RoleDAL.cs",
@@ -220,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\Role.cs",
               "RelativeDocumentMoniker": "RBACDemo.Models\\Role.cs",
@@ -228,12 +276,11 @@
               "RelativeToolTip": "RBACDemo.Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T14:46:31.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T14:46:31.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "RoleForm.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RoleForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RoleForm.cs",
@@ -246,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "RoleForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RoleForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RoleForm.cs",
@@ -258,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "UserForm.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\UserForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\UserForm.cs",
@@ -266,24 +313,22 @@
               "RelativeToolTip": "RBACPermissionSystemDemo\\UserForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:11:22.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T15:11:22.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "UserForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\UserForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\UserForm.cs",
               "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\UserForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "RBACPermissionSystemDemo\\UserForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:02:48.99Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-11-05T15:02:48.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "SourceGear.sqlite3.props",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
               "RelativeDocumentMoniker": "packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
@@ -295,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "RBACPermissionSystemDemo",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\RBACPermissionSystemDemo.csproj",
@@ -306,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Comm.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\Comm.cs",
               "RelativeDocumentMoniker": "RBACDemo.Models\\Comm.cs",
@@ -314,12 +359,11 @@
               "RelativeToolTip": "RBACDemo.Models\\Comm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T14:39:23.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T14:39:23.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\DbInitializer.cs",
               "RelativeDocumentMoniker": "RBACDemo.DAL\\DbInitializer.cs",
@@ -331,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "UserDAL.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.DAL\\UserDAL.cs",
               "RelativeDocumentMoniker": "RBACDemo.DAL\\UserDAL.cs",
@@ -344,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACDemo.Models\\User.cs",
               "RelativeDocumentMoniker": "RBACDemo.Models\\User.cs",
@@ -352,25 +396,24 @@
               "RelativeToolTip": "RBACDemo.Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T14:35:30.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T14:35:30.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\MainForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\MainForm.cs",
               "ToolTip": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\MainForm.cs",
               "RelativeToolTip": "RBACPermissionSystemDemo\\MainForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAIAxwCoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T15:23:44.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\Program.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\Program.cs",
@@ -383,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Porject\\C#\\RBACPermissionSystemDemo\\RBACPermissionSystemDemo\\MainForm.cs",
               "RelativeDocumentMoniker": "RBACPermissionSystemDemo\\MainForm.cs",

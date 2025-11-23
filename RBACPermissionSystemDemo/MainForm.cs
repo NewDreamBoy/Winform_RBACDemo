@@ -29,5 +29,21 @@ namespace RBACPermissionSystemDemo
                 from.ShowDialog();
             }
         }
+
+        private void Btn_RolePermission_Click(object sender, EventArgs e)
+        {
+            using (var from = new RolePermissionForm())
+            {
+                from.ShowDialog();
+            }
+        }
+
+        private void Btn_PermissionManagement_Click(object sender, EventArgs e)
+        {
+            using (var from = new PermissionForm())
+            {
+                from.ShowDialog();
+            }
+        }
     }
 }

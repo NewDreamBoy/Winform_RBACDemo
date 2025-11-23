@@ -54,6 +54,7 @@
     <Compile Include="RoleDAL.cs" />
     <Compile Include="RolePermissionDAL.cs" />
     <Compile Include="UserDAL.cs" />
+    <Compile Include="UserRoleDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RBACDemo.Models\RBACDemo.Models.csproj">

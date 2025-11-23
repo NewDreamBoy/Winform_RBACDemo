@@ -19,3 +19,6 @@ D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPe
 D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.pdb
 D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.exe.config
 D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.UserForm.resources
+D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.PermissionForm.resources
+D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.RoleForm.resources
+D:\Porject\C#\RBACPermissionSystemDemo\RBACPermissionSystemDemo\obj\Debug\RBACPermissionSystemDemo.RolePermissionForm.resources
